@@ -4,6 +4,7 @@
 
 A lightweight foundation for your next webpack based frontend project.
 
+<a href="https://snyk.io//test/github/clarejrdan/webpack-starter?targetFile=package.json"><img src="https://snyk.io//test/github/clarejrdan/webpack-starter/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io//test/github/clarejrdan/webpack-starter?targetFile=package.json" style="max-width:100%;"></a>
 
 ### Installation
 
